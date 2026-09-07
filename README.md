@@ -59,9 +59,10 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
 ## Output:
+<img width="1920" height="1080" alt="Screenshot (79)" src="https://github.com/user-attachments/assets/157e0350-89be-4dc8-8eec-a90bb02e0985" />
 
-### Name: 
-### Register Number:
+### Name: Udhaya Nandhini M
+### Register Number: 212225240177
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
